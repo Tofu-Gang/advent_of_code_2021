@@ -1,7 +1,7 @@
 __author__ = "Tofu Gang"
 __email__ = "tofugangsw@gmail.com"
 
-# from day_xx.day_xx import puzzle_1 as puzzle
+from day_01.day_01 import puzzle_2 as puzzle
 
 """
 You're minding your own business on a ship at sea when the overboard alarm goes 
@@ -26,7 +26,7 @@ first. Each puzzle grants one star. Good luck!
 
 if __name__ == "__main__":
     print("---Advent Of Code 2021---")
-    # puzzle()
+    puzzle()
     exit(0)
 
 ################################################################################
